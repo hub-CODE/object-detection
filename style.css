@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 10;
+    padding-right: 10;
+}
+
+button{
+    font-weight: 500;
+    padding-left: 10;
+    padding-right: 10;
+    background-color: white;
+}
